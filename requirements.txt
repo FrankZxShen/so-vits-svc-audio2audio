@@ -1,0 +1,13 @@
+spleeter
+numpy
+PyAudio
+pydub
+pyworld
+requests
+scipy
+sounddevice
+SoundFile
+starlette
+torch
+torchaudio
+tqdm
