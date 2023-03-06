@@ -28,4 +28,10 @@
 
 - `spk_list` 填写合成的说话人名称
 
+  执行
   
+  ```
+  python inference_spleeter.py
+  ```
+
+输出结果为完整歌曲，在audio_results目录下。
